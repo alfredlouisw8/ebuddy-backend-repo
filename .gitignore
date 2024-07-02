@@ -1,0 +1,8 @@
+.env
+node_modules/
+dist/
+functions/
+config/serviceAccountKey.json
+ui-debug.log
+firestore-debug.log
+firebase-debug.log

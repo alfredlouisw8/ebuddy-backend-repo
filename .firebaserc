@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "ebuddy": "ebuddy-adb79",
+    "default": "ebuddy-adb79"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
