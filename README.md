@@ -7,8 +7,8 @@ This repository contains the backend code for the project, using Express.js and 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/backend-repo.git
-   cd backend-repo
+   git clone git@github.com:alfredlouisw8/ebuddy-backend-repo.git
+   cd ebuddy-backend-repo
    ```
 
 2. **Install dependencies**
